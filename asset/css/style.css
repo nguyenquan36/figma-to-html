@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+/* đổi qua 62.5% cho tròn */
+html{
+    font-size: 62.5%;
+}
+/* đặt lại size 1.6rem */
+body{
+    font-size: 1.6rem;
+}
